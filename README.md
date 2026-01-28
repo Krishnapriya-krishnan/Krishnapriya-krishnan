@@ -1,7 +1,11 @@
 
 # 🚀 About Me:
 Data Analyst and Web Developer with experience in Python, PHP, JavaScript, SQL, MySQL, Power BI, Excel and data visualization, along with building responsive websites using WordPress and Webflow. Passionate about turning data into insights and creating user-friendly, data-driven web solutions.
-
+🎓 Background in Web Development
+📊 Interested in market intelligence, business analysis, and data analytics
+Passionate about turning data into actionable insights
+🤝 Enjoy collaborating with teams and presenting findings clearly
+🚀 Self-motivated learner, always exploring new tools and concepts
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/krishnapriya-krishnan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:krishna475@gmail.com) 
