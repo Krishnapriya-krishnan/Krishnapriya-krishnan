@@ -1,7 +1,7 @@
 
 # 🚀 About Me:
 Data Analyst and Web Developer with experience in Python, PHP, JavaScript, SQL, MySQL, Power BI, Excel and data visualization, along with building responsive websites using WordPress and Webflow. Passionate about turning data into insights and creating user-friendly, data-driven web solutions.
-🎓 Background in Web Development
+![]🎓 Background in Web Development
 📊 Interested in market intelligence, business analysis, and data analytics
 Passionate about turning data into actionable insights
 🤝 Enjoy collaborating with teams and presenting findings clearly
